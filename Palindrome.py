@@ -1,3 +1,7 @@
+"""
+Problem 9 : Given an integer x, return true if x is palindrome integer.
+
+"""
 class Solution(object):
     def isPalindrome(self, x):
         """
